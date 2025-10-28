@@ -90,6 +90,8 @@ int main(void) {
             descidas++;
         }
 
+        /* erro na liha 87 corrigido ( erro gramtical )*/
+
         /* depois das descidas, move-se para a esquerda CAVALO_HORIZONTAL vezes */
         /* aqui é só uma casa, então um único printf; se fosse mais, poderíamos usar outro loop */
         int esquerdas = 0;
